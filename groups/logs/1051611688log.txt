@@ -1,0 +1,20 @@
+[ Tue May 17 17:07:25 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] added SuperGroup
+ 
+[ Tue May 17 17:11:21 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] set SuperGroup to: mute Video
+ 
+[ Tue May 17 17:11:47 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] requested SuperGroup settings 
+ 
+[ Tue May 17 17:13:10 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] set SuperGroup to: mute Gifs
+ 
+[ Tue May 17 17:14:55 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] set flood to [5]
+ 
+[ Tue May 17 17:15:19 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] locked link posting 
+ 
+[ Tue May 17 18:08:47 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] started setting new SuperGroup photo
+ 
+[ Tue May 17 18:08:53 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] set new SuperGroup photo
+ 
+[ Tue May 17 18:09:18 2016 ]=>  بہريڪي||» ↬😾❥ [177102411] renamed SuperGroup to: superbot #~>
+ 
+[ Tue May 17 18:09:18 2016 ]=>  نـٌــً﴿😻﴾ـڕڕۅۅشھ | نايمه 💤😴 [0] renamed SuperGroup to: superbot #~>
+ 
