@@ -1,0 +1,36 @@
+[ Tue May 17 19:25:12 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] added SuperGroup
+ 
+[ Tue May 17 19:25:33 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] locked link posting 
+ 
+[ Tue May 17 19:25:43 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] set SuperGroup to: mute Photo
+ 
+[ Tue May 17 19:25:58 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] locked sticker posting
+ 
+[ Tue May 17 19:26:24 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] set SuperGroup to: mute Gifs
+ 
+[ Tue May 17 19:26:35 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] locked spam 
+ 
+[ Tue May 17 19:26:57 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] locked flood 
+ 
+[ Tue May 17 19:27:05 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] set flood to [5]
+ 
+[ Tue May 17 19:28:54 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] requested SuperGroup bots list
+ 
+[ Tue May 17 19:31:38 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] set SuperGroup to: mute Documents
+ 
+[ Tue May 17 19:32:10 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] set SuperGroup to: mute Video
+ 
+[ Tue May 17 19:32:22 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] renamed SuperGroup to: gogo
+ 
+[ Tue May 17 19:32:22 2016 ]=>  ⚡️ ŹËŖÖ~BÖȚ ⚡️ [0] renamed SuperGroup to: gogo
+ 
+[ Tue May 17 22:01:57 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] requested group rules
+ 
+[ Tue May 17 22:11:38 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] attempted to create a new SuperGroup link
+ 
+[ Tue May 17 22:11:54 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] requested group link [https://telegram.me/joinchat/Cu9aAD9M9sjVGKRFMdbVDQ]
+ 
+[ Tue May 17 22:13:16 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] deleted a message by reply
+ 
+[ Tue May 17 22:57:13 2016 ]=>  ❥😾 BREKE ❘❝  بريكي [177102411] deleted a message by reply
+ 
